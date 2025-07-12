@@ -11,9 +11,9 @@
   "license": "ISC",
   "repository": "https://github.com/Suva/pro-dj-link-to-midi",
   "dependencies": {
+    "@dmxjs/prolink-connect": "^0.11.4",
     "commander": "^4.1.1",
     "easymidi": "^1.0.3",
-    "nanotimer": "^0.3.15",
-    "pro-dj-link": "^0.1.2"
+    "nanotimer": "^0.3.15"
   }
 }
